@@ -7,5 +7,5 @@ return array(
     'DB_USER' => 'root',      // 用户名
     'DB_PWD' => 'NCI22#salves', //),         // 密码)
 
-    'URL_MODEL' => 0,
+//    'URL_MODEL' => 0,
 );
