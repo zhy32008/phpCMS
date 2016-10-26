@@ -18,6 +18,12 @@ class IndexController extends Controller {
 
     public function login(){
 
+       $username =  $_GET['username'];
+
+        $password = $_GET['password'];
+
+
+
         echo 'login success';
 
     }
